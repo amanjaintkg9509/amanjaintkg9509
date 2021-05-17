@@ -1,7 +1,5 @@
 # 👋 I'm Aman Jain, A full-time full-stack developer 
 
-
-- 👀 I’m interested in try to Help for every one.
 - 🌱 I’m currently learning React JS from Vidhya Classes
 - 💞️ I’m looking to collaborate on LinkedIn.
 - 📫 How to reach me: [Twitter - @akj9509] (https://twitter.com/akj9509), [LinkedIn - aman-jain] (https://www.linkedin.com/in/aman-jain-2a2661131/)

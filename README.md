@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React JS from Vidhya Classes
 - 💞️ I’m looking to collaborate on LinkedIn.
-- [Aman Jain Resume](https://drive.google.com/file/d/1J4NWt7JSrznS-4HYXzHhPmku9qHh9vK-/view?usp=sharing)
+- [Aman Jain Resume](https://drive.google.com/file/d/1GoDRjzY81yBjH5hpO8rOpVl9k1EtvE-q/view?usp=share_link)
 
 <!---
 amanjaintkg9509/amanjaintkg9509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
